@@ -1,4 +1,101 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition Pilgrimage (exhibitions/ISL/pilgrimage/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/bg_fading_left.gif",
+      "sha256": "beee6f56d207e87eda660e017aba7a28b9ad6c1b60477972fc7e1a961895f60c"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/bg_fading_right.gif",
+      "sha256": "f9815f3534d40a3723827023f7925a2836f19db6a2ebb50da158943edb6dfa43"
+    },
+    "theme/assets/legacy/ET-29.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/ET-29.gif",
+      "sha256": "c6dbb7bc568eab4e804f7bd6305e995563d7291a5941af60616e8f53d92108a4"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/exhibition_bg_ar.jpg",
+      "sha256": "8fc6b91d88b5770afbe9671f19c390cd4cf373ac434cae125264c258fc6be695"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/exhibition_bg.jpg",
+      "sha256": "8fc6b91d88b5770afbe9671f19c390cd4cf373ac434cae125264c258fc6be695"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/home_bg_ar.jpg",
+      "sha256": "573e54737a74cb81d24b1b8707ff5efde62d6cdbbc31f6b132270c18deea79f4"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/home_bg.jpg",
+      "sha256": "1d30da322e10a1623b47288f425de8a8301e564b59936164ea6f6595ca26b6ce"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/intro_bg_ar.jpg",
+      "sha256": "c319c615b2fbb3237ed2bca29212a004952e950021fe7a5c2764bae93086d829"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/intro_bg.jpg",
+      "sha256": "4d9db69013a37a0ff36c4cf38690495be6893405beefc8704093f207f42f017c"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_ar.gif",
+      "sha256": "0e07c4e9801597b9fc007d9dc89ce3c31e007ede320674db3b9a554f6075615e"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_de.gif",
+      "sha256": "318acb1a56f0125f583316e9522eb0525d93307eafb8872cec26b71bc6d390f4"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_en.gif",
+      "sha256": "485247956465eed7df680454c745e59dfb2a38b0b81ad80a0bf7fac694819350"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_es.gif",
+      "sha256": "d6ffb0298dd43ae9b4d42df37319d883433b7ec9ce415731693afaf25ed5f7c5"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_fr.gif",
+      "sha256": "5608032f38a345504c8ac8a72969a2d1b7d16858754c3aca73eb8c7d7d9f8b4e"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_it.gif",
+      "sha256": "6e2f12b8d090a83ebe2cd8d202c2e022a615c80cccd7511a0db98858273823a8"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_pt.gif",
+      "sha256": "082184c7adc410e6490172595ea7c12e9eb97229027c5a74579ada16bbf459ba"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/logo_tr.gif",
+      "sha256": "2bb8b83dfe47e6b421371abc54f6c9149aebef4bbc511ae3f098c821a3301dff"
+    },
+    "theme/assets/legacy/NMS-29.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/NMS-29.gif",
+      "sha256": "90098c934869f0c158e692142d27f4d85671e7cdecaa208b159a530b016e650f"
+    },
+    "theme/assets/legacy/PA-29.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/PA-29.gif",
+      "sha256": "b812af62aa9b6bd880d4890616dcfe8409e7fcd8c913e92ea59acc46ee9507fb"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/pilgrimage/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    }
+  }
 }
