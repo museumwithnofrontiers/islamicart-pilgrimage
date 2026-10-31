@@ -27,6 +27,7 @@
   --minisite-menu-link: #A3BBC3;
   --minisite-strip: #76959D;
   --minisite-footer: #4A7988;
+  --minisite-footer-height: 18px;
   --minisite-footer-text: #A3BBC3;
   --minisite-footer-font: Normal 9px verdana, arial , helvetica;
   --minisite-footer-link: #A3BBC3;
@@ -68,10 +69,16 @@
   --minisite-partners-line-margin-bottom: 17px;
   --minisite-partners-line-font: Normal 9px verdana, arial , helvetica;
   --minisite-partners-link: #ffffff;
+  --minisite-partners-color: #8a9fa8;
+  --minisite-partners-width: 100%;
+  --minisite-partners-padding: 10px 0;
+  --minisite-partners-line-color: #ffffff;
   --minisite-intro-paper: #D8E3E2;
+  --minisite-intro-padding-top: 200px;
   --minisite-intro-title-left: 345px;
   --minisite-intro-title-top: 110px;
   --minisite-intro-title-width: 405px;
+  --minisite-intro-title-align: right;
   --minisite-intro-title-font: normal 40px Georgia, "Times New Roman", Times, serif;
   --minisite-intro-title-color: #fcf8f8;
   --minisite-intro-table-margin: 0 0 0 152px;
@@ -98,6 +105,7 @@
   --minisite-exhibition-title-left: 345px;
   --minisite-exhibition-title-top: 35px;
   --minisite-exhibition-title-width: 405px;
+  --minisite-exhibition-title-align: right;
   --minisite-exhibition-title-font: normal 40px Georgia, "Times New Roman", Times, serif;
   --minisite-exhibition-title-color: #fcf8f8;
   --minisite-exhibition-nav-start-left: 10px;
@@ -161,6 +169,7 @@
   --minisite-intro-title-left: 20px;
   --minisite-intro-title-top: 75px;
   --minisite-intro-title-width: 450px;
+  --minisite-intro-title-align: left;
   --minisite-intro-title-font: normal 60px "Simplified Arabic", "Arabic Transparent", "Traditional Arabic", "Arial (Arabic)", "Times New Roman (Arabic)";
   --minisite-intro-table-margin: 0 155px 0 0;
   --minisite-intro-nav-start-left: 270px;
@@ -178,6 +187,7 @@
   --minisite-exhibition-title-left: 20px;
   --minisite-exhibition-title-top: 20px;
   --minisite-exhibition-title-width: 600px;
+  --minisite-exhibition-title-align: left;
   --minisite-exhibition-title-font: normal 50px "Simplified Arabic", "Arabic Transparent", "Traditional Arabic", "Arial (Arabic)", "Times New Roman (Arabic)";
   --minisite-exhibition-nav-start-left: 350px;
   --minisite-exhibition-nav-start-width: 400px;
